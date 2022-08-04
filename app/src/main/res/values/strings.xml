@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Incident Reporter</string>
+    <string-array name="incidents">
+        <item>Fire</item>
+        <item>Snatching</item>
+        <item>Robbery</item>
+        <item>Road Accident</item>
+        <item>Blast</item>
+        <item>Fight</item>
+        <item>Domestic Accident</item>
+        <item>Animal Rescue</item>
+        <item>Murder</item>
+    </string-array>
+    <string-array name="incidentnames">
+        <item>Incident Reporter</item>
+        <item>Fire 🔥</item>
+        <item>Snatching 📱</item>
+        <item>Robbery 💰</item>
+        <item>Road Accident 🛣️</item>
+        <item>Blast 🎆</item>
+        <item>Fight 🫂</item>
+        <item>Domestic Accident 🤕</item>
+        <item>Animal Rescue 🐕</item>
+        <item>Murder 🔪</item>
+    </string-array>
+    <string-array name="emojis">
+        <item>🚒\nRescue1122</item>
+        <item>👨‍🚒\nRescue1122</item>
+        <item>🚓\nPolice</item>
+        <item>👮\nPolice</item>
+        <item>🚑\nParamedics</item>
+        <item>👨‍⚕\nParamedics</item>
+    </string-array>
+    <string-array name="ireported">
+        <item>Incident</item>
+        <item>Reported</item>
+    </string-array>
+    <string name="l">Enter Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
