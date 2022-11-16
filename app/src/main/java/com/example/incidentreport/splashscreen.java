@@ -20,7 +20,7 @@ public class splashscreen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent hehe = new Intent(splashscreen.this, roles.class);
+                Intent hehe = new Intent(splashscreen.this, onboarding_screens.class);
                 startActivity(hehe);
                 finish();
             }

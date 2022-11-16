@@ -21,6 +21,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Incidentreport">
         <activity
+            android:name=".onboarding_screens"
+            android:exported="false" />
+        <activity
             android:name=".submissionproof"
             android:exported="false" />
         <activity

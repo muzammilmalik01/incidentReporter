@@ -36,6 +36,16 @@
         <item>Reported</item>
     </string-array>
     <string name="l">Enter Description</string>
+
+<!--    OnBoarding Screens Strings-->
+    <string name="slide1Title">Report an Incident</string>
+    <string name="slide2Title">Wait for Approval</string>
+    <string name="slide3Title">Quick Emergency Response</string>
+
+
+    <string name="slide1Desc">Witness any unforeseen incident?\n Report it immediately!</string>
+    <string name="slide2Desc">Report will be approved/rejected on Authenticity base.</string>
+    <string name="slide3Desc">QRF, Rescue 1122, Anti-Terrorist Squad swift response.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
